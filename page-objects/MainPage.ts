@@ -28,4 +28,8 @@ export class MainPage {
 	async openMainPage() {
 		await this.mainPage.goto('https://webdriveruniversity.com/');
 	}
+
+	async openContactUs() {
+		await this.contactUS.click()
+	}
 }
