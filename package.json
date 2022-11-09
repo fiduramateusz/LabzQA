@@ -1,0 +1,21 @@
+{
+  "name": "labzqa",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fiduramateusz/LabzQA.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fiduramateusz/LabzQA/issues"
+  },
+  "homepage": "https://github.com/fiduramateusz/LabzQA#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.27.1"
+  }
+}
